@@ -1,2 +1,7 @@
 __pycache__/
 *.pyc
+.venv/
+.claude/
+verifiers/
+prime-rl/
+eval/rl_outputs/final_model/
