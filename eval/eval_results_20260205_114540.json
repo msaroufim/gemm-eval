@@ -1,0 +1,51 @@
+{
+  "metadata": {
+    "timestamp": "2026-02-05T11:45:40.216414",
+    "model": "sonnet",
+    "version": "1.0"
+  },
+  "responses": {
+    "tma_easy_1": "",
+    "tma_easy_2": ""
+  },
+  "scores": {
+    "tma_easy_1": 0.0,
+    "tma_easy_2": 0.0
+  },
+  "details": [
+    {
+      "id": "tma_easy_1",
+      "skill": "tma",
+      "difficulty": "easy",
+      "correct_answer": "A",
+      "claude_response": "",
+      "extracted_answer": null,
+      "score": 0.0,
+      "passed": false
+    },
+    {
+      "id": "tma_easy_2",
+      "skill": "tma",
+      "difficulty": "easy",
+      "correct_answer": "B",
+      "claude_response": "",
+      "extracted_answer": null,
+      "score": 0.0,
+      "passed": false
+    }
+  ],
+  "summary": {
+    "by_skill": {
+      "tma": {
+        "correct": 0.0,
+        "total": 2,
+        "percentage": 0.0
+      }
+    },
+    "overall": {
+      "correct": 0.0,
+      "total": 2,
+      "percentage": 0.0
+    }
+  }
+}
