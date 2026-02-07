@@ -1,3 +1,5 @@
+AI disclosure: I haven't read any of the below
+
 # NVFP4 GEMM: Kernels, Eval, and RL Training
 
 Expert NVFP4 GEMM kernel implementations for NVIDIA Blackwell (SM100) GPUs, a skill evaluation framework, and an RL training pipeline that uses the eval as a reward signal.
